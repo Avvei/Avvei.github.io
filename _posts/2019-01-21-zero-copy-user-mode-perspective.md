@@ -14,7 +14,7 @@ tags: ["linux", "翻译"]
 read(file, tmp_buf, len); 
 write(socket, tmp_buf, len);
 ```
-`test`
+`test` `测试`
 (```)
     for i in range(4):
         myPen.forward(250)
